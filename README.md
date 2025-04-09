@@ -33,5 +33,5 @@ Employee turnover can cost a company time, money, and productivity. By using pre
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Cngh10/employee-churn-prediction.git
+   git clone https://github.com/Cngh10/employee-churn-prediction-.git
    cd employee-churn-prediction
