@@ -2,6 +2,21 @@
 
 A modern, interactive web application for predicting employee churn using machine learning. Built with Streamlit and featuring a beautiful, responsive UI design.
 
+## Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/Cngh10/Employee-churn-prediction-.git
+
+# Navigate to project directory
+cd Employee-churn-prediction-
+
+# Run the application (auto-installs dependencies)
+./run_app.sh
+```
+
+**Login Credentials:** admin / password
+
 ## Features
 
 ### Modern UI/UX Design
@@ -64,9 +79,18 @@ A modern, interactive web application for predicting employee churn using machin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/employee-churn-prediction.git
-cd employee-churn-prediction
+# Clone the repository
+git clone https://github.com/Cngh10/Employee-churn-prediction-.git
+
+# Navigate to the project directory
+cd Employee-churn-prediction-
 ```
+
+**Or download as ZIP:**
+- Click the green "Code" button on GitHub
+- Select "Download ZIP"
+- Extract the ZIP file
+- Navigate to the extracted folder
 
 ### 2. Create Virtual Environment
 ```bash
@@ -148,7 +172,7 @@ python test_app.py
 ## Project Structure
 
 ```
-employee-churn-prediction/
+Employee-churn-prediction-/
 ├── app_modern.py          # Main application file
 ├── app.py                 # Original application
 ├── train.py              # Model training script
